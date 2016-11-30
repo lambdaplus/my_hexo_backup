@@ -2,7 +2,7 @@
 ---
 title: 豆瓣电影Top250爬虫
 date: 2016-10-24 21:30:29
-tags: Python
+tags: 爬虫
 ---
 
 ## 爬取豆瓣电影top250。
