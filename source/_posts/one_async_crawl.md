@@ -60,7 +60,6 @@ Wall time: 1.27 s
 
 import requests
 import re
-from threading import Thread
 from bs4 import BeautifulSoup as bs
 
 def fetch(url):
